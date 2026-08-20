@@ -11,7 +11,8 @@ _An open-source trainer (mod menu whatever) for Big Walk. Includes features such
 ---
 
 ## Screenshots
-![Preview](https://github.com/pierlevelembroider/big-walk-cheats/blob/main/assets/Builder/GUI/image.png)
+<img width="864" height="576" alt="image" src="https://github.com/user-attachments/assets/0d2f720d-c51b-4c43-8559-d31f50833ced" />
+
 
 ---
 
